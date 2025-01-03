@@ -99,4 +99,4 @@ function restart() {
   }
 }
 
-document.querySelector('.again').addEventListener('click', restart());
+document.querySelector('.again').addEventListener('click', restart);
